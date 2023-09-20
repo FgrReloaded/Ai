@@ -1,0 +1,8 @@
+chromadb
+langchain
+sentence_transformers
+pypdf
+textract
+openai
+tiktoken
+faiss-cpu
